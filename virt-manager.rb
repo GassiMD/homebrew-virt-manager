@@ -13,7 +13,7 @@ class VirtManager < Formula
   depends_on "adwaita-icon-theme"
   depends_on "docutils"
   depends_on "gtk+3"
-  depends_on "gtk-vnc"
+  depends_on "gtk-vnc-m1"
   depends_on "gtksourceview4"
   depends_on "hicolor-icon-theme"
   depends_on "libosinfo"
